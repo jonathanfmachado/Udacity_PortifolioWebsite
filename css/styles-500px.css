@@ -1,0 +1,14 @@
+.logo{
+        float: none;
+        color: red;
+        position: static;
+        transform: none;
+    }
+
+.personal-name {
+    float: none;
+}
+
+.fwork-cover {
+    width: 100%;
+}

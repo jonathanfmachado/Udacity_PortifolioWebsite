@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px;
+    color: #2d3c49;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.header {
+    width: 100%;
+}
+
+
+.logo {
+    color: #02b3e4;
+    float: left;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.personal-name{
+    float: right;
+}
+
+.cover {
+    margin: 0 auto;
+
+}
+.cover-image {
+    width: 100%;
+
+}
+
+.section{
+    width: 100%;
+    display: inline-block;
+    color: #7d97ad;
+
+}
+
+.featured-work {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.featured-work-card {
+
+    margin: 15px;
+
+}
+
+.fwork-cover{
+    width: 250px;
+}
+
